@@ -1,4 +1,4 @@
-# 📌 Task Summary
+#  Task Summary
 
 ## Task 1: Business Questions
 Developed key analytical questions for CEO and CMO focusing on revenue, customers, and growth.
